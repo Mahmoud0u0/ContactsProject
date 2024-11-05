@@ -1,0 +1,16 @@
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe.config
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer1.dll
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer1.dll
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer1.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer1.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.Properties.Resources.resources
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.pdb
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmListContacts.resources
+C:\Users\Mahmoud\Desktop\Cources\Course_C#\ContactsProject\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmAddEditContact.resources
